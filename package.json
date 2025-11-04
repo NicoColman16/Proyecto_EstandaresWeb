@@ -1,0 +1,21 @@
+{
+  "name": "proyecto_estandaresweb",
+  "version": "1.0.0",
+  "description": "Repositorio para los trabajos de Enstandares en Desarrollo Web\r Para poder visualizar correctamente este proyecto, se dispone de 3 opciones:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoColman16/Proyecto_EstandaresWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NicoColman16/Proyecto_EstandaresWeb/issues"
+  },
+  "homepage": "https://github.com/NicoColman16/Proyecto_EstandaresWeb#readme"
+}
