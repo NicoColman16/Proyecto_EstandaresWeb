@@ -1,0 +1,19 @@
+# dependencias
+node_modules/
+.vite/
+.vite\deps
+dist/
+
+# logs
+*.log
+
+# entorno
+.env
+.env.*
+
+# editor
+.vscode/
+
+# windows
+Thumbs.db
+Desktop.ini

@@ -4,7 +4,8 @@
   "description": "Repositorio para los trabajos de Enstandares en Desarrollo Web\r Para poder visualizar correctamente este proyecto, se dispone de 3 opciones:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,18 @@
   "bugs": {
     "url": "https://github.com/NicoColman16/Proyecto_EstandaresWeb/issues"
   },
-  "homepage": "https://github.com/NicoColman16/Proyecto_EstandaresWeb#readme"
+  "homepage": "https://github.com/NicoColman16/Proyecto_EstandaresWeb#readme",
+  "dependencies": {
+    "@algolia/autocomplete-js": "^1.19.4",
+    "@algolia/autocomplete-theme-classic": "^1.19.4",
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.8",
+    "pace-js": "^1.2.4",
+    "sweetalert2": "^11.26.3"
+  },
+  "devDependencies": {
+    "vite": "^7.2.2"
+  }
 }
